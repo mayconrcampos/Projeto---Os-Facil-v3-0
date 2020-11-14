@@ -13,8 +13,8 @@ funciona a classe Build da biblioteca GTK3.
 
 Foram utilizadas as seguintes Bibliotecas.
 
-- gi = GTK 3.0 - Interface Gráfica
-- Sqlite3 - Banco de Dados
-- Reportlab - Gerador de PDF
+- **PyGtk3.0** - Interface Gráfica
+- **Sqlite3** - Banco de Dados
+- **Reportlab** - Gerador de PDF
 - Bibliotecas padrão do Python.
 
